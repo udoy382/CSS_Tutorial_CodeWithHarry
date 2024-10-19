@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+li{
+    list-style: none;
+    /* display: inline-block; */
+    padding: 30px;
+}
+
+ul{
+    display: flex;
+}
+
+header{
+    height: 70px;
+    background-color: black;
+    color: white;
+}
+
+.left{
+    height: 80vh;
+    width: 40vw;
+    /* float: left; */
+    background-color: blueviolet;
+}
+
+.right{
+    height: 80vh;
+    width: 40vw;
+    /* float: right; */
+    background-color: crimson;
+}

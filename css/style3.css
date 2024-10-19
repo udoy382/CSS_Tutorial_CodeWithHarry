@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.red{
+    background: red;
+    color: white;
+}
+
+.green{
+    background: rgb(60, 98, 60);
+    color: aqua;
+}
+
+
+/* We can use also [ Google colour picker ] */

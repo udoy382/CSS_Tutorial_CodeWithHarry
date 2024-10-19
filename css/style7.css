@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* html{
+    font-size: 45px;
+} */
+
+.container{
+    font-size: 34px;
+}
+
+.box{
+    /* font-size: 12px; */
+    /* font-size: 3em; */
+    /* font-size: 3rem; */
+    background-color: red;
+}
+
+.box2{
+    background-color: aqua;
+    width: 332px;
+    width: 50vw;
+    height: 50vh;
+}
+
+/* ---------------- */
+
+.container2{
+    width: 344px;
+    height: 45vh;
+    background-color:chartreuse;
+    margin-top: 20px;
+    /* min-height: 50vh; */
+    max-height: 50vh;
+}
+

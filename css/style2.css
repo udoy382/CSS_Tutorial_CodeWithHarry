@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: red;
+}
+div{
+    background-color: antiquewhite;
+}
+#red, h3{
+    color: white;
+    background-color: red;
+}
+.blue{
+    color: azure;
+    background-color: blue;
+    border: 2px solid black;
+}
+
+/* This is an CSS comment */

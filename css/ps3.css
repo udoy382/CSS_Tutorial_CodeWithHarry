@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+header{
+    border: 2px solid wheat;
+    height: 65px;
+    background: black;
+    color: white;
+}
+
+.content{
+    height: 90vh;
+    background-color: red;
+    margin: 34px;
+    box-sizing: border-box;
+}
+
+footer{
+    background-color: rebeccapurple;
+    margin: 23px;
+}

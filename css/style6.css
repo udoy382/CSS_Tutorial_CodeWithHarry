@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Montserrat:ital,wght@1,200&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.box1{
+    width: 431px;
+    height: 1134px;
+    background-color: red;
+    /* display: inline; */
+    display: inline-block;
+    /* display: none; */
+}
+
+.box2{
+    width: 431px;
+    height: 1134px;
+    background-color: rgb(178, 75, 75);
+    /* display: inline; */
+    display: inline-block;
+    text-align: center;
+}
+
+
+p{
+    background-color: blue;
+    color: white;
+    width: 232px;
+    height: 234px;
+
+    /* text-decoration: underline; */
+    /* text-transform: capitalize; */
+    /* line-height: 22px; */
+    /* font-size: 23px; */
+    /* font-family: ubuntu, 'Courier New', Courier, monospace; */
+}
